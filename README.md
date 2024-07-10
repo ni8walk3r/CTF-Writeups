@@ -2,4 +2,4 @@
 
 Collection of CTF writeups!
 
-2024:
+2024:-
